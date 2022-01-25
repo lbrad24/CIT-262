@@ -1,0 +1,16 @@
+{
+  "name": "automated-api-testing",
+  "version": "1.0.0",
+  "description": "automated api testing file",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "mocha": "^9.2.0",
+    "node-fetch": "^3.2.0"
+  },
+  "type": "module"
+}
